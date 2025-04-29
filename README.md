@@ -53,7 +53,7 @@ Images were preprocessed and resized into three versions:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ASL-Recognition-using-deep-learning.git
+   git clone https://github.com/hibakhurshid96/ASL-Recognition-using-deep-learning.git
    cd ASL-Recognition-using-deep-learning
    ```
 
